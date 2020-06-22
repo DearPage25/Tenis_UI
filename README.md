@@ -17,3 +17,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # Tenis_UI
 
+## Credit
+
+This app is the class in [udemy.com](https://www.udemy.com/user/550c38655ec11/) , the name class is "Flutter: Diseños nivel profesionales y animaciones" with the teacher Fernando Herrera.
+
+Fernando Herrera si ves esto, GRACIAS!!! :3
+
